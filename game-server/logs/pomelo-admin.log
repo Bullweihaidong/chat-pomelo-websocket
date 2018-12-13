@@ -1,0 +1,25 @@
+[2018-12-13 23:38:44.911] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2018-12-13 23:38:45.197] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2018-12-13 23:38:46.098] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "127.0.0.1", 3005
+[2018-12-13 23:38:46.184] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-12-13 23:38:46.185] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "127.0.0.1", 3005
+[2018-12-13 23:38:46.205] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-12-13 23:38:46.263] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "chat", "127.0.0.1", 3005
+[2018-12-13 23:38:46.317] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-12-13 23:38:46.440] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "gate", "127.0.0.1", 3005
+[2018-12-13 23:41:32.985] [INFO] pomelo-admin - [32m[MasterAgent] [39mclient user : admin login to master
+[2018-12-13 23:41:33.005] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect pomelo_list_1544715692931 client "client"
+[2018-12-13 23:41:33.015] [INFO] pomelo-admin - [32m[MasterSocket] [39mclient user admin exit
+[2018-12-13 23:45:14.977] [INFO] pomelo-admin - [32m[MasterAgent] [39mclient user : admin login to master
+[2018-12-13 23:45:14.995] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect pomelo_list_1544715914937 client "client"
+[2018-12-13 23:45:14.999] [INFO] pomelo-admin - [32m[MasterSocket] [39mclient user admin exit
+[2018-12-13 23:51:37.694] [INFO] pomelo-admin - [32m[MasterAgent] [39mclient user : admin login to master
+[2018-12-13 23:51:37.714] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect pomelo_list_1544716302651 client "client"
+[2018-12-13 23:51:37.727] [INFO] pomelo-admin - [32m[MasterSocket] [39mclient user admin exit
+[2018-12-13 23:55:17.845] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect gate-server-1 gate {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"gate-server-1","host":"127.0.0.1","clientPort":3014,"frontend":"true","serverType":"gate","pid":4460}
+[2018-12-13 23:55:17.858] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect chat-server-3 chat {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"chat-server-3","host":"127.0.0.1","port":6052,"serverType":"chat","pid":6624}
+[2018-12-13 23:55:17.876] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect chat-server-2 chat {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"chat-server-2","host":"127.0.0.1","port":6051,"serverType":"chat","pid":2288}
+[2018-12-13 23:55:17.886] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect chat-server-1 chat {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"chat-server-1","host":"127.0.0.1","port":6050,"serverType":"chat","pid":2788}
+[2018-12-13 23:55:17.902] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect connector-server-3 connector {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"connector-server-3","host":"127.0.0.1","port":4052,"clientPort":3052,"frontend":"true","serverType":"connector","pid":10424}
+[2018-12-13 23:55:17.905] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect connector-server-2 connector {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"connector-server-2","host":"127.0.0.1","port":4051,"clientPort":3051,"frontend":"true","serverType":"connector","pid":8024}
+[2018-12-13 23:55:17.911] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect connector-server-1 connector {"main":"C:\\Users\\18193\\Documents\\Nodejs_Pomelo\\chatofpomelo-websocket\\game-server\\app.js","env":"development","id":"connector-server-1","host":"127.0.0.1","port":4050,"clientPort":3050,"frontend":"true","serverType":"connector","pid":7780}

@@ -1,0 +1,4 @@
+[2018-12-13 23:55:17.865] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-2 is error, remote server chat-server-2 host: 127.0.0.1, port: 6051
+[2018-12-13 23:55:17.866] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server chat-server-2 host: 127.0.0.1, port: 6051
+[2018-12-13 23:55:17.877] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server chat-server-1 host: 127.0.0.1, port: 6050
+[2018-12-13 23:55:17.877] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-3 is error, remote server chat-server-1 host: 127.0.0.1, port: 6050
