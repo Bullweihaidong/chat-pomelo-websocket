@@ -7,7 +7,7 @@ var app = pomelo.createApp();
 app.set('name', 'chatofpomelo-websocket');
 
 // app configuration
-// 测试提交文件
+// 再测试提交
 app.configure('production|development', 'connector', function(){
 	app.set('connectorConfig',
 		{
