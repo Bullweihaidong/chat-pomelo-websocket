@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a0f3366-5d6b-4ac7-a28b-cb260a4826dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/game-server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-server/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="9a0f3366-5d6b-4ac7-a28b-cb260a4826dd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/game-server/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="8" />
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -55,6 +53,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Bullweihaidong &lt;1819353154@qq.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,7 +168,7 @@
       <workItem from="1544768178033" duration="626000" />
       <workItem from="1544768982402" duration="1966000" />
       <workItem from="1544771713447" duration="525000" />
-      <workItem from="1544773072257" duration="125000" />
+      <workItem from="1544773072257" duration="439000" />
     </task>
     <task id="LOCAL-00001" summary="解决了调试问题&#10;gate study :&quot;args&quot;:&quot;--inspect=32312&quot;&#10;game server&#10;web server">
       <created>1544770872211</created>
@@ -181,11 +184,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544771759332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="再测试提交-01">
+      <created>1544773302520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544773302520</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3242000" />
+    <option name="totallyTimeSpent" value="3556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +210,7 @@
     <frame x="-7" y="-7" width="2015" height="1308" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73426574" visible="true" weight="0.15462355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73426574" visible="true" weight="0.15462355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.26573426" side_tool="true" visible="true" weight="0.15462355" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -212,7 +222,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3920068" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3920068" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -275,7 +285,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="解决了调试问题&#10;gate study :&quot;args&quot;:&quot;--inspect=32312&quot;&#10;game server&#10;web server" />
-    <option name="LAST_COMMIT_MESSAGE" value="解决了调试问题&#10;gate study :&quot;args&quot;:&quot;--inspect=32312&quot;&#10;game server&#10;web server" />
+    <MESSAGE value="再测试提交-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="再测试提交-01" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/npm-install.bat">
@@ -301,7 +312,7 @@
     <entry file="file://$PROJECT_DIR$/game-server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
